@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Caballerizas Reales",
+        "situacion": "Actuaciones en marcha y nuevas intervenciones previstas",
+        "presupuesto": "9,6 millones de euros para el Centro Internacional del Caballo; 2,4 millones para la sala museística; 545.528 euros para la recuperación de la muralla y el portillo",
+        "plazo": "Inicio del Centro Internacional del Caballo: finales de 2026 o principios de 2027. Finalización: 2031/2032",
+        "descripcion": "Transformación en el Centro Internacional del Caballo, junto a la creación de una sala museística y la recuperación de elementos de la muralla.",
+        "direccion": "Calle Caballerizas Reales, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.783155, 37.876245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Alcázar de los Reyes Cristianos",
+        "situacion": "Obras en ejecución",
+        "presupuesto": "530.000 euros",
+        "plazo": "Finalización prevista en noviembre de 2026",
+        "descripcion": "Restauración de la cubierta del Salón de los Mosaicos y actuaciones en la Torre del Homenaje por las fisuras detectadas.",
+        "direccion": "Calle de las Caballerizas Reales, s/n, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.781944, 37.877222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Pérgola",
+        "situacion": "Obras en ejecución con retraso",
+        "presupuesto": "No indicado",
+        "plazo": "15 de octubre de 2026",
+        "descripcion": "Remodelación del edificio para acoger dependencias municipales y una sala versátil. Las obras se han retrasado por daños no previstos.",
+        "direccion": "Jardines del Duque de Rivas, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.785296, 37.886021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Real Academia de Córdoba",
+        "situacion": "Obras en ejecución con problemas estructurales",
+        "presupuesto": "571.758 euros",
+        "plazo": "8 meses desde el inicio de las obras en abril de 2026",
+        "descripcion": "Rehabilitación de cubiertas y estructura y eliminación de los daños provocados por filtraciones. El estado del edificio ha resultado peor de lo previsto.",
+        "direccion": "Calle Alfonso XIII, 13, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.777750, 37.885472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Molino de la Albolafia",
+        "situacion": "Segunda fase pendiente",
+        "presupuesto": "Un millón de euros estimados para la segunda fase",
+        "plazo": "Sin fecha de inicio confirmada",
+        "descripcion": "Tras una primera fase de limpieza y desbroce, queda pendiente la segunda fase de restauración del monumento.",
+        "direccion": "Avenida del Alcázar, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.779998, 37.876779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Convento de Santa Clara",
+        "situacion": "Primera fase terminada; segunda fase prevista",
+        "presupuesto": "480.000 euros en la primera fase",
+        "plazo": "Segunda fase: posible inicio en 2027 y finalización prevista a finales de 2028",
+        "descripcion": "Terminada la restauración de la torre y la primera crujía. La segunda fase recuperará el interior del antiguo convento.",
+        "direccion": "Calle Rey Heredia, 22, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.778091, 37.880623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Convento de Regina",
+        "situacion": "Obras en ejecución",
+        "presupuesto": "1,2 millones de euros",
+        "plazo": "En ejecución desde marzo de 2025",
+        "descripcion": "Restauración del convento, condicionada por la complejidad de recuperar su deteriorado artesonado mudéjar. Después se actuará en el claustro.",
+        "direccion": "Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.771350, 37.884360]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Ermita de la Aurora",
+        "situacion": "Obras en ejecución y nueva actuación pendiente",
+        "presupuesto": "43.142,72 euros en el proyecto actualmente en ejecución",
+        "plazo": "El proyecto inicial contemplaba cuatro meses, pero será necesario un nuevo proyecto",
+        "descripcion": "Las obras iniciadas en marzo han detectado más daños de los previstos, por lo que será necesario un nuevo proyecto.",
+        "direccion": "Calle San Fernando, Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.776556, 37.882250]
+      }
+    }
+  ]
+}
