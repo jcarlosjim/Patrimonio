@@ -1,22 +1,23 @@
 {
   "type": "FeatureCollection",
   "name": "flora_cordoba_2026",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "id": "diputacion",
-        "nombre": "Palacio de la Merced",
-        "direccion": "Plaza de Colón, s/n",
-        "festival": "FLORA 2026",
+        "id": 1,
+        "sede": "Palacio de la Merced",
+        "direccion": "Plaza de Colón, Córdoba",
+        "patio": "Patio Barroco",
+        "instalacion": "No puedo esperar más al futuro",
         "artista": "FLOVER NYC",
-        "fuente": "Diputación de Córdoba"
+        "pais": "Estados Unidos",
+        "festival": "FLORA 2026",
+        "tema": "Efímero",
+        "fechas": "12-22 de octubre de 2026",
+        "exhibicion": "16-21 de octubre de 2026",
+        "horario": "11:00-20:00",
+        "descripcion": "Instalación floral contemporánea creada específicamente para el Patio Barroco del Palacio de la Merced."
       },
       "geometry": {
         "type": "Point",
@@ -26,11 +27,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "viana",
-        "nombre": "Palacio de Viana",
-        "direccion": "Plaza de Don Gome, 2",
+        "id": 2,
+        "sede": "Palacio de Viana",
+        "direccion": "Plaza de Don Gome, 2, Córdoba",
+        "patio": "Patio de las Columnas",
+        "instalacion": "El murmullo",
+        "artista": "Hamish Powell",
+        "pais": "Reino Unido",
         "festival": "FLORA 2026",
-        "fuente": "Junta de Andalucía"
+        "tema": "Efímero",
+        "fechas": "12-22 de octubre de 2026",
+        "exhibicion": "16-21 de octubre de 2026",
+        "horario": "11:00-20:00",
+        "descripcion": "Instalación floral contemporánea concebida para el Patio de las Columnas del Palacio de Viana."
       },
       "geometry": {
         "type": "Point",
@@ -40,11 +49,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "orive",
-        "nombre": "Palacio de Orive",
-        "direccion": "Plaza de Orive, 2",
+        "id": 3,
+        "sede": "Palacio de Orive",
+        "direccion": "Plaza de Orive, 2, Córdoba",
+        "patio": "Patio central",
+        "instalacion": "Cataclismo",
+        "artista": "Mas Rasa",
+        "pais": "Francia",
         "festival": "FLORA 2026",
-        "fuente": "Junta de Andalucía"
+        "tema": "Efímero",
+        "fechas": "12-22 de octubre de 2026",
+        "exhibicion": "16-21 de octubre de 2026",
+        "horario": "11:00-20:00",
+        "descripcion": "Instalación floral contemporánea creada para el patio central del Palacio de Orive."
       },
       "geometry": {
         "type": "Point",
@@ -54,12 +71,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "mezquita-catedral",
-        "nombre": "Mezquita-Catedral de Córdoba",
-        "direccion": "Calle Cardenal Herrero, 1",
-        "espacio": "Patio de los Naranjos",
+        "id": 4,
+        "sede": "Mezquita-Catedral de Córdoba",
+        "direccion": "Calle Cardenal Herrero, 1, Córdoba",
+        "patio": "Patio de los Naranjos",
+        "instalacion": "Halcyon",
+        "artista": "Sohee Park",
+        "pais": "Corea del Sur",
         "festival": "FLORA 2026",
-        "fuente": "Web oficial de la Mezquita-Catedral"
+        "tema": "Efímero",
+        "fechas": "12-22 de octubre de 2026",
+        "exhibicion": "16-21 de octubre de 2026",
+        "horario": "11:00-20:00",
+        "descripcion": "Instalación floral contemporánea concebida para el Patio de los Naranjos de la Mezquita-Catedral."
       },
       "geometry": {
         "type": "Point",
@@ -69,12 +93,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "museo-arqueologico",
-        "nombre": "Museo Arqueológico de Córdoba",
-        "direccion": "Plaza de Jerónimo Páez, 7",
-        "espacio": "Patio II",
+        "id": 5,
+        "sede": "Museo Arqueológico de Córdoba",
+        "direccion": "Plaza de Jerónimo Páez, 7, Córdoba",
+        "patio": "Patio II",
+        "instalacion": "Interludio",
+        "artista": "Taller Banegas",
+        "pais": "España",
         "festival": "FLORA 2026",
-        "fuente": "Junta de Andalucía"
+        "tema": "Efímero",
+        "fechas": "12-22 de octubre de 2026",
+        "exhibicion": "16-21 de octubre de 2026",
+        "horario": "11:00-20:00",
+        "descripcion": "Instalación floral contemporánea creada para el segundo patio del Museo Arqueológico de Córdoba."
       },
       "geometry": {
         "type": "Point",
